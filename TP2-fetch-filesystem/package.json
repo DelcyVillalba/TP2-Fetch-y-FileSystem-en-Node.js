@@ -1,0 +1,15 @@
+{
+    "name": "tp2-fetch-filesystem",
+    "version": "1.0.0",
+    "description": "TP2 Programación III - Fetch API y FileSystem en Node.js",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "node-fetch": "^3.3.2"
+    },
+    "author": "Grupo BB - UNER",
+    "license": "ISC"
+}
