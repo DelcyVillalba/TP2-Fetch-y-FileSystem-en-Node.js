@@ -46,7 +46,7 @@ Es para aprender a:
 ---
 
 ### ▶️ Ejecución del programa
-Para correr el proyecto escribier en consola o terminal:
+Para correr el proyecto se debe escribir en consola o terminal:
 
 `node index.js`
 
