@@ -37,12 +37,12 @@ Es para aprender a:
 ---
 
 ### 📂 Estructura del proyecto
-tp2-fetch-filesystem/
-│── index.js --------------------# Script principal con todas las funciones
-│── productos.json ----------# Archivo generado con los productos obtenidos
+``` tp2-fetch-filesystem/
+│── index.js ---------------# Script principal con todas las funciones
+│── productos.json ---------# Archivo generado con los productos obtenidos
 │── package.json -----------# Configuración del proyecto (dependencias y scripts)
-│── README.md-----------# Explicación del trabajo
-
+│── README.md---------------# Explicación del trabajo
+```
 ---
 
 ### ▶️ Ejecución del programa
